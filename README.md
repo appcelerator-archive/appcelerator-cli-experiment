@@ -9,7 +9,7 @@ Warning: Currently, this only works on Mac OSX.
 
 To install, run the following command from your terminal:
 
-	$ ruby -e "$(curl -fsSL https://raw.github.com/appcelerator/appcelerator/install)"
+	$ ruby -e "$(curl -fsSL https://raw.githubusercontent.com/appcelerator/appcelerator/master/install)"
 
 
 # What's installed?
